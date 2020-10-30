@@ -27,7 +27,7 @@
 
 ## Overview
 
-<img src="src/assets/rest.gif" height="500">
+<img src="roman.png" width="800">
 
 ### Built With
 
