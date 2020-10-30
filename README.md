@@ -1,12 +1,46 @@
-<p>Clarusway<img align="right"
-  src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
 
-# JS-CC-006 : Roman Numerals
+<h1 align="center">JS_CC_06 Roman-Arabic Number Conversion</h1>
 
-- Purpose of the this coding challenge is to write a code that given numbers convert to Roman Numerals. The Romans wrote numbers using letters - I, V, X, L, C, D, M. (notice these letters have lots of straight lines and are hence easy to hack into stone tablets).
 
-- Example:
+<div align="center">
+  <h3>
+    <a  href="https://github.com/SemihDurmus/JS_CC_06_Roman_Arabic_Number_Conversion.git">
+      Project Source
+    </a> |
+    <a  href="https://semihdurmus.github.io/JS_CC_06_Roman_Arabic_Number_Conversion/">
+      Live Demo
+    </a>
+ 
+  </h3>
+</div>
 
+<!-- TABLE OF CONTENTS -->
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Built With](#built-with)
+- [Features](#features)
+- [Contact](#contact)
+
+<!-- OVERVIEW -->
+
+## Overview
+
+<img src="src/assets/rest.gif" height="500">
+
+### Built With
+
+<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
+
+- JS, HTML, CSS
+
+
+## Features
+
+- User can convert both romans to arabic numbers and the arabic to roman.
+- The highest roman number is 3999. Therefore user should be restricted to enter higher than this number.
+- Here are some example conversions
 ```
 1000=M 900=CM 90=XC
 
@@ -15,18 +49,7 @@
 2000=MM 8=VIII
 ```
 
-## Learning Outcomes
+## Contact
 
-At the end of the this coding challenge, students will be able to;
-
-- Analyze a problem, identify and apply programming knowledge for appropriate solution.
-
-- Demonstrate their knowledge of algorithmic design principles by using JavaScript and Python effectively.
-
-## Problem Statement
-
-- Write a function that takes normal number(` 8, 148, 457` ) and convert to Roman Numerals(` VIII, CXLVIII, CDLVII` )
-
-- Please note that, there is no need to be able to convert numbers larger than about 3000. (The Romans themselves didn't tend to go any higher)
-
-**<p align="center">&#9786; Happy Coding &#9997;</p>**
+- GitHub [SemihDurmus](https://github.com/SemihDurmus)
+- Linkedin [@Semih Durmus](https://www.linkedin.com/in/semih-durmus-0548751b7/)
